@@ -1,0 +1,26 @@
+.header {
+  height: 52px;
+  max-width: 1184px;
+  margin: 0 auto;
+  transition: all .8s ease;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "logo lang-link";
+}
+
+@media screen and (max-width: 1279px) {
+  .header {
+    max-width: 928px;
+  }
+  @media screen and (max-width: 1023px) {
+    .header {
+      max-width: 720px;
+    }
+  }
+  @media screen and (max-width: 766px) {
+    .header {
+      max-width: 288px;
+    }
+  }
+}

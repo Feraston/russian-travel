@@ -1,0 +1,25 @@
+.place__title {
+  font-size: 7.2rem;
+  line-height: 7.6rem;
+  font-family: 'Inter-Black', Arial, sans-serif;
+  margin: 0;
+  padding-bottom: 48px;
+  transition: all .8s ease;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__title {
+    font-size: 4.2rem;
+    line-height: 4.6rem;
+    padding: 0 10px 48px 0;
+  }
+  @media screen and (max-width: 766px) {
+    .place__title {
+      font-size: 3.2rem;
+      line-height: 3.5rem;
+      padding: 0;
+      width: 288px;
+      justify-self: center;
+    }
+  }
+}

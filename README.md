@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://feraston.github.io/my-first-serious-project/">Путешествие по России</a></h1>
+<h1 align="center"><a href="https://feraston.github.io/russian-travel/">Путешествие по России</a></h1>
 <p align="center"><img src="https://pei.ucoz.net/yp/lead-polka.jpg" width="80%"></p>
 <h2 align="center">Это мой первый по настоящему серьёзный проект о путешествии</h2>
 

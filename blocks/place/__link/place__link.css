@@ -3,3 +3,8 @@
   line-height: 2.2rem;
   color: #fff;
 }
+
+.place__link:hover {
+  color: rgb(53, 134, 50);
+  transition: 0.5s;
+}
